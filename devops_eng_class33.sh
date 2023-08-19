@@ -1,4 +1,4 @@
-# bash script training
+:# bash script training
 #!bin/bash/
 : '
 set -x;

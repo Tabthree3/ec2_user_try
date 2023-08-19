@@ -15,9 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1692147071,,"wq"
+|2,0,1692482711,,"wq"
+:wq\
+|2,0,1692409254,,"wq\\"
 :q!
-|2,0,1692146666,,"q!"
+|2,0,1692404758,,"q!"
 :q
 |2,0,1692146653,,"q"
 :wq!
@@ -47,238 +49,236 @@
 |3,1,36,0,1,0,1691936915,"	"
 
 # File marks:
-'0  448  34  ~/devops_eng_class33.sh
-|4,48,448,34,1692147071,"~/devops_eng_class33.sh"
-'1  448  34  ~/devops_eng_class33.sh
-|4,49,448,34,1692147013,"~/devops_eng_class33.sh"
-'2  447  5  ~/devops_eng_class33.sh
-|4,50,447,5,1692146920,"~/devops_eng_class33.sh"
-'3  447  5  ~/devops_eng_class33.sh
-|4,51,447,5,1692146920,"~/devops_eng_class33.sh"
-'4  447  5  ~/devops_eng_class33.sh
-|4,52,447,5,1692146920,"~/devops_eng_class33.sh"
-'5  447  5  ~/devops_eng_class33.sh
-|4,53,447,5,1692146920,"~/devops_eng_class33.sh"
-'6  447  9  ~/devops_eng_class33.sh
-|4,54,447,9,1692146820,"~/devops_eng_class33.sh"
-'7  447  9  ~/devops_eng_class33.sh
-|4,55,447,9,1692146820,"~/devops_eng_class33.sh"
-'8  447  9  ~/devops_eng_class33.sh
-|4,56,447,9,1692146820,"~/devops_eng_class33.sh"
-'9  447  9  ~/devops_eng_class33.sh
-|4,57,447,9,1692146820,"~/devops_eng_class33.sh"
+'0  43  0  ~/devops_eng_class33.sh
+|4,48,43,0,1692482711,"~/devops_eng_class33.sh"
+'1  64  0  ~/devops_eng_class33.sh
+|4,49,64,0,1692456970,"~/devops_eng_class33.sh"
+'2  64  0  ~/devops_eng_class33.sh
+|4,50,64,0,1692456970,"~/devops_eng_class33.sh"
+'3  208  0  ~/devops_eng_class33.sh
+|4,51,208,0,1692455919,"~/devops_eng_class33.sh"
+'4  208  0  ~/devops_eng_class33.sh
+|4,52,208,0,1692455919,"~/devops_eng_class33.sh"
+'5  208  0  ~/devops_eng_class33.sh
+|4,53,208,0,1692455919,"~/devops_eng_class33.sh"
+'6  208  0  ~/devops_eng_class33.sh
+|4,54,208,0,1692455919,"~/devops_eng_class33.sh"
+'7  1  0  ~/create_directory_structures.sh
+|4,55,1,0,1692455290,"~/create_directory_structures.sh"
+'8  1  0  ~/devops_eng_class33.sh
+|4,56,1,0,1692409477,"~/devops_eng_class33.sh"
+'9  1  0  ~/devops_eng_class33.sh
+|4,57,1,0,1692409477,"~/devops_eng_class33.sh"
 
 # Jumplist (newest first):
+-'  43  0  ~/devops_eng_class33.sh
+|4,39,43,0,1692482711,"~/devops_eng_class33.sh"
+-'  64  0  ~/devops_eng_class33.sh
+|4,39,64,0,1692462548,"~/devops_eng_class33.sh"
+-'  64  0  ~/devops_eng_class33.sh
+|4,39,64,0,1692456970,"~/devops_eng_class33.sh"
+-'  208  0  ~/devops_eng_class33.sh
+|4,39,208,0,1692456338,"~/devops_eng_class33.sh"
+-'  208  0  ~/devops_eng_class33.sh
+|4,39,208,0,1692456338,"~/devops_eng_class33.sh"
+-'  208  0  ~/devops_eng_class33.sh
+|4,39,208,0,1692455919,"~/devops_eng_class33.sh"
+-'  1  0  ~/devops_eng_class33.sh
+|4,39,1,0,1692455760,"~/devops_eng_class33.sh"
+-'  1  0  ~/devops_eng_class33.sh
+|4,39,1,0,1692455760,"~/devops_eng_class33.sh"
+-'  1  0  ~/devops_eng_class33.sh
+|4,39,1,0,1692455760,"~/devops_eng_class33.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692455290,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692455290,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692455290,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692455290,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692455290,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692455290,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692455290,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692455290,"~/create_directory_structures.sh"
+-'  1  0  ~/devops_eng_class33.sh
+|4,39,1,0,1692409477,"~/devops_eng_class33.sh"
+-'  1  0  ~/devops_eng_class33.sh
+|4,39,1,0,1692409477,"~/devops_eng_class33.sh"
+-'  343  0  ~/devops_eng_class33.sh
+|4,39,343,0,1692409324,"~/devops_eng_class33.sh"
+-'  343  0  ~/devops_eng_class33.sh
+|4,39,343,0,1692409324,"~/devops_eng_class33.sh"
+-'  343  0  ~/devops_eng_class33.sh
+|4,39,343,0,1692409324,"~/devops_eng_class33.sh"
+-'  343  0  ~/devops_eng_class33.sh
+|4,39,343,0,1692409324,"~/devops_eng_class33.sh"
+-'  343  0  ~/devops_eng_class33.sh
+|4,39,343,0,1692409324,"~/devops_eng_class33.sh"
+-'  343  0  ~/devops_eng_class33.sh
+|4,39,343,0,1692409254,"~/devops_eng_class33.sh"
+-'  343  0  ~/devops_eng_class33.sh
+|4,39,343,0,1692409254,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409090,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409090,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409090,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409090,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409090,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409090,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409090,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409035,"~/devops_eng_class33.sh"
+-'  420  0  ~/devops_eng_class33.sh
+|4,39,420,0,1692409035,"~/devops_eng_class33.sh"
 -'  448  34  ~/devops_eng_class33.sh
-|4,39,448,34,1692147071,"~/devops_eng_class33.sh"
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
 -'  448  34  ~/devops_eng_class33.sh
-|4,39,448,34,1692147013,"~/devops_eng_class33.sh"
--'  447  5  ~/devops_eng_class33.sh
-|4,39,447,5,1692146968,"~/devops_eng_class33.sh"
--'  447  5  ~/devops_eng_class33.sh
-|4,39,447,5,1692146968,"~/devops_eng_class33.sh"
--'  447  5  ~/devops_eng_class33.sh
-|4,39,447,5,1692146920,"~/devops_eng_class33.sh"
--'  447  9  ~/devops_eng_class33.sh
-|4,39,447,9,1692146820,"~/devops_eng_class33.sh"
--'  504  0  ~/devops_eng_class33.sh
-|4,39,504,0,1692146704,"~/devops_eng_class33.sh"
--'  504  0  ~/devops_eng_class33.sh
-|4,39,504,0,1692146704,"~/devops_eng_class33.sh"
--'  504  0  ~/devops_eng_class33.sh
-|4,39,504,0,1692146704,"~/devops_eng_class33.sh"
--'  504  0  ~/devops_eng_class33.sh
-|4,39,504,0,1692146704,"~/devops_eng_class33.sh"
--'  504  0  ~/devops_eng_class33.sh
-|4,39,504,0,1692146701,"~/devops_eng_class33.sh"
--'  484  0  ~/devops_eng_class33.sh
-|4,39,484,0,1692146686,"~/devops_eng_class33.sh"
--'  484  0  ~/devops_eng_class33.sh
-|4,39,484,0,1692146686,"~/devops_eng_class33.sh"
--'  484  0  ~/devops_eng_class33.sh
-|4,39,484,0,1692146686,"~/devops_eng_class33.sh"
--'  484  0  ~/devops_eng_class33.sh
-|4,39,484,0,1692146686,"~/devops_eng_class33.sh"
--'  484  0  ~/devops_eng_class33.sh
-|4,39,484,0,1692146686,"~/devops_eng_class33.sh"
--'  484  0  ~/devops_eng_class33.sh
-|4,39,484,0,1692146666,"~/devops_eng_class33.sh"
--'  483  0  ~/devops_eng_class33.sh
-|4,39,483,0,1692146617,"~/devops_eng_class33.sh"
--'  483  0  ~/devops_eng_class33.sh
-|4,39,483,0,1692146617,"~/devops_eng_class33.sh"
--'  483  0  ~/devops_eng_class33.sh
-|4,39,483,0,1692146617,"~/devops_eng_class33.sh"
--'  483  0  ~/devops_eng_class33.sh
-|4,39,483,0,1692146617,"~/devops_eng_class33.sh"
--'  483  0  ~/devops_eng_class33.sh
-|4,39,483,0,1692146617,"~/devops_eng_class33.sh"
--'  483  0  ~/devops_eng_class33.sh
-|4,39,483,0,1692146617,"~/devops_eng_class33.sh"
--'  483  0  ~/devops_eng_class33.sh
-|4,39,483,0,1692146532,"~/devops_eng_class33.sh"
--'  448  33  ~/devops_eng_class33.sh
-|4,39,448,33,1692146498,"~/devops_eng_class33.sh"
--'  448  33  ~/devops_eng_class33.sh
-|4,39,448,33,1692146498,"~/devops_eng_class33.sh"
--'  448  33  ~/devops_eng_class33.sh
-|4,39,448,33,1692146498,"~/devops_eng_class33.sh"
--'  448  33  ~/devops_eng_class33.sh
-|4,39,448,33,1692146498,"~/devops_eng_class33.sh"
--'  448  33  ~/devops_eng_class33.sh
-|4,39,448,33,1692146498,"~/devops_eng_class33.sh"
--'  448  33  ~/devops_eng_class33.sh
-|4,39,448,33,1692146341,"~/devops_eng_class33.sh"
--'  474  2  ~/devops_eng_class33.sh
-|4,39,474,2,1692146249,"~/devops_eng_class33.sh"
--'  474  2  ~/devops_eng_class33.sh
-|4,39,474,2,1692146249,"~/devops_eng_class33.sh"
--'  474  2  ~/devops_eng_class33.sh
-|4,39,474,2,1692146249,"~/devops_eng_class33.sh"
--'  474  2  ~/devops_eng_class33.sh
-|4,39,474,2,1692146249,"~/devops_eng_class33.sh"
--'  474  2  ~/devops_eng_class33.sh
-|4,39,474,2,1692146249,"~/devops_eng_class33.sh"
--'  474  2  ~/devops_eng_class33.sh
-|4,39,474,2,1692146249,"~/devops_eng_class33.sh"
--'  474  2  ~/devops_eng_class33.sh
-|4,39,474,2,1692146249,"~/devops_eng_class33.sh"
--'  474  2  ~/devops_eng_class33.sh
-|4,39,474,2,1692146249,"~/devops_eng_class33.sh"
--'  472  2  ~/devops_eng_class33.sh
-|4,39,472,2,1692146172,"~/devops_eng_class33.sh"
--'  472  2  ~/devops_eng_class33.sh
-|4,39,472,2,1692146172,"~/devops_eng_class33.sh"
--'  472  2  ~/devops_eng_class33.sh
-|4,39,472,2,1692146172,"~/devops_eng_class33.sh"
--'  472  2  ~/devops_eng_class33.sh
-|4,39,472,2,1692146172,"~/devops_eng_class33.sh"
--'  472  2  ~/devops_eng_class33.sh
-|4,39,472,2,1692146172,"~/devops_eng_class33.sh"
--'  472  2  ~/devops_eng_class33.sh
-|4,39,472,2,1692146172,"~/devops_eng_class33.sh"
--'  472  2  ~/devops_eng_class33.sh
-|4,39,472,2,1692146172,"~/devops_eng_class33.sh"
--'  472  2  ~/devops_eng_class33.sh
-|4,39,472,2,1692146172,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146093,"~/devops_eng_class33.sh"
--'  446  0  ~/devops_eng_class33.sh
-|4,39,446,0,1692146063,"~/devops_eng_class33.sh"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
--'  1  0  ~/devops_eng_class33.shclear
-|4,39,1,0,1692145961,"~/devops_eng_class33.shclear"
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
+-'  448  34  ~/devops_eng_class33.sh
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
+-'  448  34  ~/devops_eng_class33.sh
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
+-'  448  34  ~/devops_eng_class33.sh
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
+-'  448  34  ~/devops_eng_class33.sh
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
+-'  448  34  ~/devops_eng_class33.sh
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
+-'  448  34  ~/devops_eng_class33.sh
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
+-'  448  34  ~/devops_eng_class33.sh
+|4,39,448,34,1692408879,"~/devops_eng_class33.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
+-'  1  0  ~/create_directory_structures.sh
+|4,39,1,0,1692406963,"~/create_directory_structures.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/devops_eng_class33.sh
-	*	1692147048	0
-	"	448	34
-	^	448	35
-	.	448	34
-	+	478	391
-	+	478	459
+	*	1692482706	0
+	"	43	0
+	^	43	0
+	.	1	0
 	+	478	503
 	+	478	350
 	+	478	304
@@ -377,6 +377,12 @@
 	+	448	0
 	+	447	5
 	+	448	34
+	+	447	0
+	+	1	0
+
+> ~/create_directory_structures.sh
+	*	1692455283	0
+	"	1	0
 
 > ~/devops_eng_class33.shclear
 	*	1692145949	0

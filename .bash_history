@@ -1,256 +1,3 @@
-ls
-ls /
-ls home/
-ls bin
-cd bin
-cd /
-pwd
-ls
-ls bin
-cd-
- cd -
-pwd
-ls
-mkdir -pv dev/git/maven/aws
-ls
-tree
-sudo yum install tree
-tree
-cd ..
-ls
-cd -
-ls
-cd git
-cd dev/git
-ls
-cd dev/git/maven
-cd dev/git/maven/
-cd ./dev/git/maven/
-cd dev/git/maven/aws
-clear
-tree
-ls
-cd /
-ls
-cd dev
-ls
-cd /
-whoami
-tree
-clear
-pwd
-mkdir tab3
-lsa
-ls
-mkdir tab3
-cd home
-ls
-mkdir taB3
-EXIT
-exit
-whami
-whoami
-hostname ctl set-hostname demo
-hostname ctl set-hostname 'demo'
-clear
-hostnamectl  set-hostname  demo
-sudo hostnamectl  set-hostname  demo
-whoami
-sudo hostnamectl  set-hostname demo
-sudo su - ec2-user
-/c/Users/TAB3/OneDrive/Desktop/keys_pem
-cd /c/Users/TAB3/OneDrive/Desktop/keys_pem
-cd
-clear
-exit
-ls
-tree
-rm -rf dev
-ls
-mkdir tab36
-ls
-pwd
-touch 1.txt
-ls
- cp 1.txt ./tab36
-ls
-rm 1.txt
-ls
-clear
-ls
-pwd
-ls
-mkdir try/ter/aws
-mkdir  -pv  try/ter/aws
-ls
-cd try/
-ls
-cd ter/
-ls
-cd aws/
-cd ../
-cd../ cd../
-cd ../ cd ../
-cd ../
-pwd
-rm -rf try
-ls
-cd /home/ec2-user/
-ls
-sudo vi /etc/ssh/sshd-config
-sudo usermod -e 2023-09125 datti
-sudo usermod -e 2023-09-25 datti
-chage datti
-sudo chage datti
-sudo vi /etc/ssh/sshd_config
-sudo systemctl sshd restart
-sudo systemctl restart sshd
-whoami
-sudo adduser datti
-sudo adduser landmark
-sudo adduser tabiri
-ls
-tail -4 /etc/passwd
-sudo userdel tabiri
-tail -4 /etc/passwd
-sudo passwd datti
-id datti
-sudo addgroup managers
-sudo groupadd managers
-sudo groupadd qa
-sudo groupadd engineers
-/etc/group
- sudo /etc/group
-ls
-cat /etc/group 
-clear
-tail -5 /etc/group
-/etc/paswd
-/etc/passwd
-sudo /etc/passwd
-cat etc/passwd
-cat /etc/passwd
-clear
-sudo usermod -aG landmark qa
-sudo usermod -aG landmark managers
-sudo usermod -aG managers landmark
-id landmark
-sudo vi /etc/sudoers
-su landmark
-sudo su landmark
-clear
-tail-4 /etc/group
-cat /etc/group
-tail -4 /etc/group
-claer
-clear
-sudo vi /etc/sudoers
-tail -4 /etc/passwd
-su - landmark
-sudo su- landmark
-sudo su landmark
-whoami 
-ls
-sudo ls
-pwd
-whereis obi
-sudo users
-clear
-sudo  vi /etc/ssh/sshd_config
-whoami
-df
-df -h
-du
-sudo du
-sudo yum install wget -y
-ping wget
-ping obi
-ping ec2-user
-pwd
-sudo usermod -aG managers  obi
-id obi
-id landmark
-sudo addgroup construction
-sudo groupadd constructions
-sudo /etc/group
-sudo tail -3 /etc/group
-id constructions
-sudo id constructions
-suso ~ find constructions
-suso ~ find ./ constructions
-sudo ~ find ./ constructions
-sudo  find ./ constructions
-sudo  find ~ constructions
- sudo head /etc/group
- sudo more /etc/group
-clear
- sudo more /etc/group  | grep cons
-sudo grpdel constructions
-sudo groupdel constructions
- sudo more /etc/group  | grep cons
- sudo more /etc/group  | grep constructions
-df
-du
-clear
- sudo curl ifconfig.me
-ifconfig
-ip -a
-eixt
-exit
-sudo hostnamectl set- hostname obi
-sudo hostnamectl set-hostname obi
-whoami
-/bin/bash/
-sudo adduser obi
-users
-sudo /etc/passwd
-sudo /etc/passwd/
-whereis etc
-sudo /etc/passwd
-sudo tail /etc/passwd
-tail-4 /etc/group
-tail /etc/group/
- sudo tail /etc/group
-clear
-sudo su obi
-sudo userdel obi
-sudo  /etc/passwd/
-sudo tail /etc/passwd/
-sudo tail-4  /etc/passwd/
-whoami
-sudo tail /etc/passwd
-sudo tail /etc/passwd/
-sudo tail /etc/passwd
-clear
-sudo adduser obi
-sudo userdel -r obi
-sudo adduser obi
-sudo passwd
-sudo vi  /etc/sudoers
-sudo tail-4 /etc/passwd
-sudo tail /etc/passwd
-sudo tail -2 /etc/passwd
-sudo  tail - 2 /etc/group
-sudo /etc/group
-sudo tail /etc/group
-sudo tail  -4/etc/group
-sudo tail -4 /etc/group
-ls
-sudo ls
-pwd
-sudo su ec2-user
-exit
-whoami
-/bin/bash 
-clear
-quit
-exit
-sudo -i
-man man
-man zip
-man split
-clear
-whoami
 pwd
 ls
 rm tab36/
@@ -998,3 +745,256 @@ date
 whoami
 ls
 exit
+whoami
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+ls
+ls /home/
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+ls
+pwd
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+ls /home/
+ls ec2-user
+ls
+ls bob
+ls countries
+tree bob
+clear
+ls
+rm -r london.txt  washington.txt  New_Dehli.txt
+sudo rm london.txt
+sudo rm London.txt
+rm -r London.txt  Washington.txt  New_Dehli.txt
+clear
+ls
+rm New_Delhi.txt
+rm  -r bob
+ls
+sh create_directory_structures.sh
+ls
+ls bob
+ls countries
+clear
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+clear
+vi create_directory_structures.sh
+ls
+ls bob
+ls countries
+ls | grep USA
+ls | bob
+ls | grep bob
+ls | grep USA
+clear
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+sh -x create_directory_structures.sh
+clear
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+ls
+ls bob
+ls countries
+clear
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+clear
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+clear
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+ct=/home/tr;
+tr= /cr/ty/;
+clear
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+\clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+ls
+ls bob
+countries
+ls countries
+vi create_directory_structures.sh
+rm -r bob
+ls
+sh create_directory_structures.sh
+ls
+cd bob
+ls
+cd countries
+ls
+clear
+vi create_directory_structures.sh
+ls
+cd
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+ls
+cd bob
+ls
+cd countries
+ls
+cd India
+ls
+cd..
+cd/
+cd
+ls
+vi create_directory_structures.sh
+clear
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+clear
+git add --all
+git commit -m "new ticket"
+git push
+git push all
+git branch
+git switch main
+git push 
+ls
+exit
+vi create_directory_structures.sh 
+ls
+cat create_directory_structures.sh 
+clear
+vi create_directory_structures.sh
+gitn status
+git status
+git diff
+clear
+sh create_directory_structures.sh
+sh create_directory_structures.sh
+ls /home
+ec2-user
+ls ec2-user
+ls
+sh create_directory_structures.sh
+vi create_directory_structures.sh
+sh devops_eng_class33.sh 
+ create_directory_structures.sh
+ls
+clear
+sh devops_eng_class33.sh 
+sh devops_eng_class33.sh 
+vi devops_eng_class33.sh 
+sh devops_eng_class33.sh 
+vi devops_eng_class33.sh 
+sh devops_eng_class33.sh 
+vi devops_eng_class33.sh 
+ls
+vi create_directory_structures.sh
+sh create_directory_structures.sh
+pwd
+git status
+git restore create_directory_structures.sh 
+git push 
+ls 
+ls/home/ec2-user
+ls /home/ec2-user
+sudo su ec2-user
